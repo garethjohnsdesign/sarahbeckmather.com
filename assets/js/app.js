@@ -1,6 +1,6 @@
 $(document).foundation();
 
-$('#video-gallery').lightGallery({
+$('#gallery').lightGallery({
     selector: '.excerpt',
     download: false
 });

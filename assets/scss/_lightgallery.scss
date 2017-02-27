@@ -11,12 +11,14 @@ $lg-theme: #0D0A0A !default;
 
 // basic icon colours
 $lg-icon-bg: rgba(0, 0, 0, 0.45) !default;
-$lg-icon-color: #999 !default;
-$lg-icon-hover-color: #FFF !default;
+// $lg-icon-color: #999 !default;
+$lg-icon-color: $color--black !default;
+$lg-icon-hover-color: $color--light-gray !default;
 
 // counter
 $lg-counter-color: #e6e6e6 !default;
-$lg-counter-font-size: 16px !default;
+// $lg-counter-font-size: 16px !default;
+$lg-counter-font-size: 24px !default;
 
 // Next prev icons
 // $lg-next-prev-bg: $lg-icon-bg !default;
@@ -41,8 +43,10 @@ $lg-path-images: '../img'!default;
 $zoom-transition-duration: 0.3s !default;
 
 // Sub html - titile
-$lg-sub-html-bg: rgba(0, 0, 0, 0.45) !default;
-$lg-sub-html-color: #EEE !default;
+// $lg-sub-html-bg: rgba(0, 0, 0, 0.45) !default;
+$lg-sub-html-bg: rgba(0, 0, 0, 0) !default;
+// $lg-sub-html-color: #EEE !default;
+$lg-sub-html-color: $color--dark-gray !default;
 
 // thumbnail toggle button
 $lg-thumb-toggle-bg: #0D0A0A !default;
@@ -1155,9 +1159,12 @@ body:not(.lg-from-hash){
     }
 
     .lg-item {
-        background: url("#{$lg-path-images}/loading.gif") no-repeat scroll center center transparent;
+//         background: url("#{$lg-path-images}/loading.gif") no-repeat scroll center center transparent;
         display: none !important; 
     }
+
+    
+//     Animation
     &.lg-css3{
         .lg-prev-slide, .lg-current, .lg-next-slide{
             display: inline-block !important; 

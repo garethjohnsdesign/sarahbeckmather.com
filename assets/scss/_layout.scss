@@ -8,6 +8,20 @@
 // 1. Global
 // ---------
 
+
+html {
+  @include breakpoint(small) {
+    font-size: 125%;
+  }
+  @include breakpoint(medium) {
+    font-size: 150%;
+  }
+  @include breakpoint(large) {
+    font-size: 150%;
+  }
+}
+
+
 body {  
   cursor: default;
 }
@@ -27,13 +41,9 @@ img {
   color: $color--white;
 }
 
-a { 
-  transition: $primary-transition;
-}
-
 .wrapper {
   @include breakpoint(small) {
-    padding: 1rem 0rem;
+    padding: 1rem;
   }
   @include breakpoint(medium) {
     padding: 1.5rem;
@@ -72,7 +82,7 @@ i, cite, em, var, address, dfn {
 
 // 4. Index
 
-.index__description {
+.works {
   @include breakpoint(small) {
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -86,6 +96,7 @@ i, cite, em, var, address, dfn {
     padding-bottom: 2.5rem;
   }
 }
+
 
 
 // 6. Excerpt
@@ -126,4 +137,53 @@ i, cite, em, var, address, dfn {
 
 .cv__titles {
   padding-bottom: 1rem;
+}
+
+.top-bar .columns {
+  z-index: 11;
+}
+
+.top-bar a:hover {
+  color: $color--black;
+}
+
+.top-bar span {
+  position: relative;
+  display: block;
+  cursor: pointer;
+}
+
+.top-bar span:before, .top-bar span:after {
+  content: '';
+  position: absolute;
+  width: 0%;
+  height: 1px;
+  top: 50%;
+  margin-top: -0.5px;
+  background: $color--black;
+}
+
+.top-bar span:hover:before {
+  background: $color--black;
+  width: 100%;
+  transition: width 0.5s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+.top-bar span:hover:after {
+  background: transparent;
+  width: 100%;
+  transition: 0s;
+}
+
+.off-canvas {
+  @include breakpoint(small) {
+    padding: 4rem 1rem 1rem 1rem;
+    max-width: 100%;
+  }
+  @include breakpoint(medium) {
+    padding: 4rem 1.5rem 1.5rem 1.5rem;
+  }
+  @include breakpoint(large) {
+    padding: 6rem 2rem 2rem 2rem;
+  }
 }

@@ -9,19 +9,22 @@ layout: compress
 {% include head.html %}
 <!-- End Head -->
 
-<body class="wrapper animated fadeIn">
-  
-<!-- Navigation -->  
+<body class="animated fadeIn">
+
+<div class="off-canvas position-left" id="offCanvas" data-off-canvas data-transition="overlap" data-options="closeOnClick:true; autoFocus:false;">
+{% include off-canvas.html %}
+</div>
+
+<div class="off-canvas-content wrapper" data-off-canvas-content>
+
 {% include navigation.html %}
-<!-- End Navigation -->
 
-<!-- Content -->
+
 {{ content }}
-<!-- End Content -->
 
-<!-- Footer -->  
 {% include footer.html %}
-<!-- End Footer -->
+
+</div>
 
 </body>
 
@@ -30,3 +33,9 @@ layout: compress
 <!-- End Scripts -->
 
 </html>
+
+
+
+
+
+
