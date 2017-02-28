@@ -2769,301 +2769,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/bower_components\/froogaloop2\/.bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/froogaloop2\/.bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/froogaloop2\/bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/froogaloop2\/bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/froogaloop2\/froogaloop.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/froogaloop2\/froogaloop.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/froogaloop2\/froogaloop.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/froogaloop2\/froogaloop.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/froogaloop2\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/bower_components\/froogaloop2\/README.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bower_components\/jquery-unveil\/.bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/.bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/jquery-unveil\/bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/jquery-unveil\/img\/anti-bullying-tom-froese-wallpaper-1280x800.jpg": {
-		"ft": 16384,
-		"iS": 387125,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/anti-bullying-tom-froese-wallpaper-1280x800.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/anti-bullying-tom-froese-wallpaper-800x500.jpg": {
-		"ft": 16384,
-		"iS": 121336,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/anti-bullying-tom-froese-wallpaper-800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/brock-davis-wallpaper-1280x800.jpg": {
-		"ft": 16384,
-		"iS": 397290,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/brock-davis-wallpaper-1280x800.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/brock-davis-wallpaper-800x500.jpg": {
-		"ft": 16384,
-		"iS": 192704,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/brock-davis-wallpaper-800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/dark-igloo-wallpaper-1-1280x800.jpg": {
-		"ft": 16384,
-		"iS": 501471,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/dark-igloo-wallpaper-1-1280x800.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/dark-igloo-wallpaper-1-800x500.jpg": {
-		"ft": 16384,
-		"iS": 187923,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/dark-igloo-wallpaper-1-800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/dark-igloo-wallpaper-1280x800.jpg": {
-		"ft": 16384,
-		"iS": 522463,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/dark-igloo-wallpaper-1280x800.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/dark-igloo-wallpaper-800x500.jpg": {
-		"ft": 16384,
-		"iS": 91322,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/dark-igloo-wallpaper-800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/haik-avanian-wallpaper-1280x800.jpg": {
-		"ft": 16384,
-		"iS": 75878,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/haik-avanian-wallpaper-1280x800.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/haik-avanian-wallpaper-800x500.jpg": {
-		"ft": 16384,
-		"iS": 28580,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/haik-avanian-wallpaper-800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/iceland-smjor-wallpaper-1280x800.jpg": {
-		"ft": 16384,
-		"iS": 214627,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/iceland-smjor-wallpaper-1280x800.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/iceland-smojr-wallpaper-800x500.jpg": {
-		"ft": 16384,
-		"iS": 101829,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/iceland-smojr-wallpaper-800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/james-olstein-wallpaper-1280x800.jpg": {
-		"ft": 16384,
-		"iS": 498059,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/james-olstein-wallpaper-1280x800.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/james-olstein-wallpaper-800x500.jpg": {
-		"ft": 16384,
-		"iS": 87495,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/james-olstein-wallpaper-800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/johanna-basford-wallpaper-800x500.jpg": {
-		"ft": 16384,
-		"iS": 92261,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/johanna-basford-wallpaper-800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/Jude_Landry_Wallpaper_1280x800.jpg": {
-		"ft": 16384,
-		"iS": 380648,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/Jude_Landry_Wallpaper_1280x800.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/Jude_Landry_Wallpaper_800x500.jpg": {
-		"ft": 16384,
-		"iS": 74721,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/Jude_Landry_Wallpaper_800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/julieta-felix-wallpaper-1280x800.jpg": {
-		"ft": 16384,
-		"iS": 84453,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/julieta-felix-wallpaper-1280x800.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/julieta-felix-wallpaper-800x500.jpg": {
-		"ft": 16384,
-		"iS": 50908,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/julieta-felix-wallpaper-800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/loader.gif": {
-		"ft": 4194304,
-		"iS": 10423,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/loader.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/Timothy-J-Reynolds-wallpaper-1280x800.jpg": {
-		"ft": 16384,
-		"iS": 575761,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/Timothy-J-Reynolds-wallpaper-1280x800.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/img\/Timothy-J-Reynolds-wallpaper-800x500.jpg": {
-		"ft": 16384,
-		"iS": 285431,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/img\/Timothy-J-Reynolds-wallpaper-800x500.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bower_components\/jquery-unveil\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/index.html",
-		"oF": 0
-		},
-	"\/bower_components\/jquery-unveil\/jquery-1.9.1.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/jquery-1.9.1.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/jquery-unveil\/jquery.unveil.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/jquery.unveil.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/jquery-unveil\/jquery.unveil.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/jquery.unveil.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/jquery-unveil\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/bower_components\/jquery-unveil\/README.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/bower_components\/jquery\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -5659,6 +5364,30 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/bower_components\/what-input\/docs\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/what-input\/docs\/index.html",
+		"oF": 0
+		},
+	"\/bower_components\/what-input\/docs\/scripts\/lte-IE8.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/what-input\/docs\/scripts\/lte-IE8.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/what-input\/docs\/scripts\/what-input.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/what-input\/docs\/scripts\/what-input.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/bower_components\/what-input\/Gulpfile.js": {
 		"ft": 64,
 		"mi": 1,
@@ -5667,12 +5396,6 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
-		},
-	"\/bower_components\/what-input\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/index.html",
-		"oF": 0
 		},
 	"\/bower_components\/what-input\/LICENSE": {
 		"ft": 8192,
@@ -5738,6 +5461,185 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/yarn.lock",
 		"oF": 0
+		},
+	"\/bower_components\/wow\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/wow\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/wow\/css\/libs\/animate.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/css\/libs\/animate.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/wow\/css\/site.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/css\/site.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/wow\/demo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/demo.html",
+		"oF": 0
+		},
+	"\/bower_components\/wow\/dist\/wow.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/wow\/dist\/wow.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/wow\/dist\/wow.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/dist\/wow.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/wow\/Gruntfile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/Gruntfile.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/wow\/LICENSE-MIT": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/LICENSE-MIT",
+		"oF": 0
+		},
+	"\/bower_components\/wow\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/wow\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.coffee": {
+		"ft": 32,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.coffee",
+		"oF": 0,
+		"oS": 0,
+		"sC": 1
+		},
+	"\/bower_components\/wow\/spec\/coffeescripts\/wow-spec.coffee": {
+		"ft": 32,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/spec\/coffeescripts\/wow-spec.coffee",
+		"oF": 0,
+		"oS": 0,
+		"sC": 1
+		},
+	"\/bower_components\/wow\/spec\/javascripts\/fixtures\/custom.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/fixtures\/custom.html",
+		"oF": 0
+		},
+	"\/bower_components\/wow\/spec\/javascripts\/fixtures\/simple.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/fixtures\/simple.html",
+		"oF": 0
+		},
+	"\/bower_components\/wow\/spec\/javascripts\/helpers\/SpecHelper.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/helpers\/SpecHelper.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/wow\/spec\/javascripts\/libs\/jasmine-jquery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/libs\/jasmine-jquery.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/wow\/spec\/javascripts\/libs\/jquery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/libs\/jquery.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/wow\/spec\/javascripts\/wow-spec.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/spec\/javascripts\/wow-spec.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/wow\/src\/wow.coffee": {
+		"ft": 32,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/wow\/src\/wow.coffee",
+		"oF": 0,
+		"oS": 0,
+		"sC": 1
 		},
 	"\/Gemfile": {
 		"ft": 8192,
@@ -5856,14 +5758,20 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/dist\/js\/lightgallery.js",
+			"linkedFileAbbreviatedPath": "\/bower_components\/wow\/dist\/wow.js",
 			"position": 4,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/demo\/js\/lg-fullscreen.js",
+			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/dist\/js\/lightgallery.js",
 			"position": 5,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/demo\/js\/lg-fullscreen.js",
+			"position": 6,
 			"type": 0
 			}
 		]
