@@ -22,7 +22,8 @@ defaults:
     role: 
     is-featured: 
 url: http://sarahbeckmather.com
-description: Freelance Artist living and working in London. Specialising in abstract paintings, using mixed media.
+description: Freelance Artist living and working in London. Specialising in abstract
+  paintings, using mixed media.
 permalink: pretty
 exclude:
 - Gemfile
