@@ -1,0 +1,41 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+<!-- Head -->
+{% include head.html %}
+<!-- End Head -->
+
+<body class="animated fadeIn">
+
+<div class="off-canvas position-left" id="offCanvas" data-off-canvas data-transition="overlap" data-options="closeOnClick:true; autoFocus:false;">
+{% include off-canvas.html %}
+</div>
+
+<div class="off-canvas-content wrapper" data-off-canvas-content>
+
+{% include navigation.html %}
+
+
+{{ content }}
+
+{% include footer.html %}
+
+</div>
+
+</body>
+
+<!-- Scripts -->
+{% include scripts.html %}
+<!-- End Scripts -->
+
+</html>
+
+
+
+
+
+
