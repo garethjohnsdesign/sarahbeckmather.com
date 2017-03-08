@@ -1,5 +1,6 @@
 ---
 title: Sarah Beck Mather
+position: 0
 image: "/assets/img/og-image.png"
 images:
 - "/uploads/sarah-beck-mather-01.jpg"
