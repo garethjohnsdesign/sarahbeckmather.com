@@ -18,7 +18,6 @@ images:
 - "/uploads/sarah-beck-mather-14.jpg"
 - "/uploads/sarah-beck-mather-15.jpg"
 - "/uploads/sarah-beck-mather-16.jpg"
-- "/uploads/donald-trump.jpg"
 layout: index
 ---
 
