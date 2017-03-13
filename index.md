@@ -13,51 +13,51 @@ images:
 - title: Electric
   image: "/uploads/electric.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Father
   image: "/uploads/father.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Coral
   image: "/uploads/coral.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Flag
   image: "/uploads/flag.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Pink Hue
   image: "/uploads/pink-hue.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Jamie
   image: "/uploads/jamie.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Underneath
   image: "/uploads/underneath.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Sudden Light
   image: "/uploads/sudden-light.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Pink Pylon
   image: "/uploads/pink-pylon.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Pink Path
   image: "/uploads/pink-path.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Desert
   image: "/uploads/desert.jpg"
   media: Mixed Media
-  link:
+  link: 
 - title: Sun Stream
   image: "/uploads/sun-stream.jpg"
   media: Mixed Media
-  link:
+  link: 
 layout: index
 ---
 
