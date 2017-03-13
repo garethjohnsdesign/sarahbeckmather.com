@@ -10,6 +10,7 @@ images:
 - title: Watermark
   image: "/uploads/watermark.jpg"
   media: Mixed Media
+  link: 
 - title: Electric
   image: "/uploads/electric.jpg"
   media: Mixed Media
