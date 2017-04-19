@@ -10,12 +10,13 @@ images:
 - title: Watermark
   image: "/uploads/watermark.jpg"
   media: Mixed Media
-- title: Electric
-  image: "/uploads/electric.jpg"
+  link: 
+- title: Surge
+  image: "/uploads/image1.JPG"
   media: Mixed Media
   link: 
-- title: Father
-  image: "/uploads/father.jpg"
+- title: Yellow Earth
+  image: "/uploads/image1%20(1).JPG"
   media: Mixed Media
   link: 
 - title: Coral
@@ -30,8 +31,8 @@ images:
   image: "/uploads/pink-hue.jpg"
   media: Mixed Media
   link: 
-- title: Jamie
-  image: "/uploads/jamie.jpg"
+- title: Love 1
+  image: "/uploads/IMG_2180.JPG"
   media: Mixed Media
   link: 
 - title: Underneath
@@ -42,8 +43,8 @@ images:
   image: "/uploads/sudden-light.jpg"
   media: Mixed Media
   link: 
-- title: Pink Pylon
-  image: "/uploads/pink-pylon.jpg"
+- title: Flower
+  image: "/uploads/IMG_0882%202.JPG"
   media: Mixed Media
   link: 
 - title: Pink Path
