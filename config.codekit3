@@ -7,7 +7,7 @@
 		"uuidString": "550FEDE5-7AFF-4FD3-8DBE-A45DE2D02921"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/404.md": {
 		"cS": 0,
@@ -111,6 +111,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/coral.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -120,24 +121,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/desert.jpg",
 		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/electric.jpg": {
-		"ft": 16384,
-		"iS": 157605,
-		"oA": 0,
-		"oAP": "\/_uploads\/electric.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/father.jpg": {
-		"ft": 16384,
-		"iS": 118125,
-		"oA": 0,
-		"oAP": "\/_uploads\/father.jpg",
-		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -147,15 +131,27 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/flag.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/jamie.jpg": {
+	"\/_uploads\/flower.jpg": {
 		"ft": 16384,
-		"iS": 172288,
+		"iS": 100734,
 		"oA": 0,
-		"oAP": "\/_uploads\/jamie.jpg",
+		"oAP": "\/_uploads\/flower.jpg",
 		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/love.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/love.jpg",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -165,6 +161,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/pink-hue.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -174,6 +171,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/pink-path.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -183,6 +181,17 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/pink-pylon.jpg",
 		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/profile.jpg": {
+		"ft": 16384,
+		"iS": 72158,
+		"oA": 0,
+		"oAP": "\/_uploads\/profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -192,6 +201,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/rain.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -201,6 +211,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/sudden-light.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -210,6 +221,17 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/sun-stream.jpg",
 		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/surge.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/surge.jpg",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -219,6 +241,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/underneath.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -228,6 +251,17 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/watermark.jpg",
 		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/yellow-earth.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/yellow-earth.jpg",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -250,31 +284,34 @@
 	"\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 321,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/favicons\/android-chrome-256x256.png": {
 		"ft": 32768,
 		"iS": 1084,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-256x256.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/favicons\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 304,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/favicons\/browserconfig.xml": {
@@ -286,21 +323,23 @@
 	"\/assets\/favicons\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 592,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-16x16.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/favicons\/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 599,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-32x32.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/favicons\/favicon.ico": {
@@ -320,11 +359,12 @@
 	"\/assets\/favicons\/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 598,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-150x150.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/favicons\/safari-pinned-tab.svg": {
@@ -444,11 +484,12 @@
 	"\/assets\/img\/og-image.png": {
 		"ft": 32768,
 		"iS": 16824,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/img\/og-image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/js\/app.js": {
@@ -3927,6 +3968,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-1600.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3936,6 +3978,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-375.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3945,6 +3988,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-480.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3954,6 +3998,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3963,6 +4008,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-1600.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3972,6 +4018,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-375.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3981,6 +4028,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-480.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3990,6 +4038,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3999,6 +4048,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-1600.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4008,6 +4058,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-375.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4017,6 +4068,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-480.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4026,6 +4078,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4035,6 +4088,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-1600.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4044,6 +4098,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-375.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4053,6 +4108,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-480.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4062,6 +4118,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4071,6 +4128,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4080,6 +4138,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-13.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4089,6 +4148,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4098,6 +4158,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-4.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -4368,31 +4429,34 @@
 	"\/bower_components\/lightgallery\/dist\/img\/video-play.png": {
 		"ft": 32768,
 		"iS": 4526,
-		"l": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/img\/video-play.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/bower_components\/lightgallery\/dist\/img\/vimeo-play.png": {
 		"ft": 32768,
 		"iS": 5428,
-		"l": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/img\/vimeo-play.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/bower_components\/lightgallery\/dist\/img\/youtube-play.png": {
 		"ft": 32768,
 		"iS": 5177,
-		"l": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/img\/youtube-play.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/bower_components\/lightgallery\/dist\/js\/lightgallery.js": {
@@ -4434,11 +4498,12 @@
 	"\/bower_components\/lightgallery\/lib\/lg.png": {
 		"ft": 32768,
 		"iS": 795264,
-		"l": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/lib\/lg.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/bower_components\/lightgallery\/lib\/picturefill.min.js": {
@@ -4579,31 +4644,34 @@
 	"\/bower_components\/lightgallery\/src\/img\/video-play.png": {
 		"ft": 32768,
 		"iS": 4526,
-		"l": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/img\/video-play.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/bower_components\/lightgallery\/src\/img\/vimeo-play.png": {
 		"ft": 32768,
 		"iS": 5428,
-		"l": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/img\/vimeo-play.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/bower_components\/lightgallery\/src\/img\/youtube-play.png": {
 		"ft": 32768,
 		"iS": 5177,
-		"l": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/img\/youtube-play.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/bower_components\/lightgallery\/src\/js\/.jshintrc": {
@@ -6880,6 +6948,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -7704,14 +7776,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -7774,7 +7838,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
