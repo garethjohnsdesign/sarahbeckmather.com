@@ -12,11 +12,11 @@ images:
   media: Mixed Media
   link: 
 - title: Surge
-  image: "/uploads/image1.JPG"
+  image: "/uploads/surge.jpg"
   media: Mixed Media
   link: 
 - title: Yellow Earth
-  image: "/uploads/image1%20(1).JPG"
+  image: "/uploads/yellow-earth.jpg"
   media: Mixed Media
   link: 
 - title: Coral
@@ -31,8 +31,8 @@ images:
   image: "/uploads/pink-hue.jpg"
   media: Mixed Media
   link: 
-- title: Love 1
-  image: "/uploads/IMG_2180.JPG"
+- title: Love
+  image: "/uploads/love.jpg"
   media: Mixed Media
   link: 
 - title: Underneath
@@ -44,7 +44,7 @@ images:
   media: Mixed Media
   link: 
 - title: Flower
-  image: "/uploads/IMG_0882%202.JPG"
+  image: "/uploads/flower.jpg"
   media: Mixed Media
   link: 
 - title: Pink Path
