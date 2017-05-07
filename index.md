@@ -31,10 +31,6 @@ images:
   image: "/uploads/pink-hue.jpg"
   media: Mixed Media
   link: 
-- title: Love
-  image: "/uploads/love.jpg"
-  media: Mixed Media
-  link: 
 - title: Underneath
   image: "/uploads/underneath.jpg"
   media: Mixed Media
