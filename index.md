@@ -43,10 +43,6 @@ images:
   image: "/uploads/sudden-light.jpg"
   media: Mixed Media
   link: 
-- title: Flower
-  image: "/uploads/flower.jpg"
-  media: Mixed Media
-  link: 
 - title: Pink Path
   image: "/uploads/pink-path.jpg"
   media: Mixed Media
