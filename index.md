@@ -35,8 +35,8 @@ images:
   image: "/uploads/Eaten.jpeg"
   media: Mixed Media
   link: 
-- title: Pink Path
-  image: "/uploads/pink-path.jpg"
+- title: Esme
+  image: "/uploads/image1.jpeg"
   media: Mixed Media
   link: 
 layout: index
