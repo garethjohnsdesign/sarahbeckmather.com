@@ -19,12 +19,12 @@ images:
   image: "/uploads/Norfolk.jpg"
   media: Mixed Media
   link: 
-- title: Coral
-  image: "/uploads/coral.jpg"
-  media: Mixed Media
-  link: 
 - title: Flag
   image: "/uploads/flag.jpg"
+  media: Mixed Media
+  link: 
+- title: Flower
+  image: "/uploads/Flower%20(1).jpg"
   media: Mixed Media
   link: 
 - title: Pink Hue
@@ -35,12 +35,12 @@ images:
   image: "/uploads/underneath.jpg"
   media: Mixed Media
   link: 
-- title: Sudden Light
-  image: "/uploads/sudden-light.jpg"
-  media: Mixed Media
-  link: 
 - title: Pink Path
   image: "/uploads/pink-path.jpg"
+  media: Mixed Media
+  link: 
+- title: Sudden Light
+  image: "/uploads/sudden-light.jpg"
   media: Mixed Media
   link: 
 - title: Eaten
