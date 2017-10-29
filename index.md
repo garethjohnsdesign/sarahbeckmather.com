@@ -7,12 +7,12 @@ images:
   image: "/uploads/rain.jpg"
   media: Mixed Media
   link: https://www.etsy.com/uk/listing/264922302/original-rain-framed-watercolour
-- title: Camden
-  image: "/uploads/Camden.jpg"
-  media: Mixed Media
-  link: 
 - title: Surge
   image: "/uploads/surge.jpg"
+  media: Mixed Media
+  link: 
+- title: Camden
+  image: "/uploads/Camden.jpg"
   media: Mixed Media
   link: 
 - title: Norfolk
