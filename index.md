@@ -27,6 +27,14 @@ images:
   image: "/uploads/Flower%20(1).jpg"
   media: Mixed Media
   link: 
+- title: Sudden Light
+  image: "/uploads/sudden-light.jpg"
+  media: Mixed Media
+  link: 
+- title: Eaten
+  image: "/uploads/Eaten.jpeg"
+  media: Mixed Media
+  link: 
 - title: Pink Hue
   image: "/uploads/pink-hue.jpg"
   media: Mixed Media
@@ -37,14 +45,6 @@ images:
   link: 
 - title: Pink Path
   image: "/uploads/pink-path.jpg"
-  media: Mixed Media
-  link: 
-- title: Sudden Light
-  image: "/uploads/sudden-light.jpg"
-  media: Mixed Media
-  link: 
-- title: Eaten
-  image: "/uploads/Eaten.jpeg"
   media: Mixed Media
   link: 
 - title: Sun Stream
