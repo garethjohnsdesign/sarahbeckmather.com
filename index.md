@@ -35,16 +35,16 @@ images:
   image: "/uploads/Eaten.jpeg"
   media: Mixed Media
   link: 
+- title: Pink Path
+  image: "/uploads/pink-path.jpg"
+  media: Mixed Media
+  link: 
 - title: Pink Hue
   image: "/uploads/pink-hue.jpg"
   media: Mixed Media
   link: 
 - title: Underneath
   image: "/uploads/underneath.jpg"
-  media: Mixed Media
-  link: 
-- title: Pink Path
-  image: "/uploads/pink-path.jpg"
   media: Mixed Media
   link: 
 - title: Sun Stream
