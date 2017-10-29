@@ -39,18 +39,6 @@ images:
   image: "/uploads/pink-path.jpg"
   media: Mixed Media
   link: 
-- title: Pink Hue
-  image: "/uploads/pink-hue.jpg"
-  media: Mixed Media
-  link: 
-- title: Underneath
-  image: "/uploads/underneath.jpg"
-  media: Mixed Media
-  link: 
-- title: Sun Stream
-  image: "/uploads/sun-stream.jpg"
-  media: Mixed Media
-  link: 
 layout: index
 ---
 
