@@ -23,8 +23,8 @@ images:
   image: "/uploads/Flower%20(1).jpg"
   media: Mixed Media
   link: 
-- title: Flag
-  image: "/uploads/flag.jpg"
+- title: Tulip
+  image: "/uploads/Tulip.jpg"
   media: Mixed Media
   link: 
 - title: Sudden Light
