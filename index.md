@@ -7,8 +7,8 @@ images:
   image: "/uploads/rain.jpg"
   media: Mixed Media
   link: https://www.etsy.com/uk/listing/264922302/original-rain-framed-watercolour
-- title: Watermark
-  image: "/uploads/watermark.jpg"
+- title: Camden
+  image: "/uploads/Camden.jpg"
   media: Mixed Media
   link: 
 - title: Surge
