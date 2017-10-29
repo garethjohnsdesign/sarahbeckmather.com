@@ -43,8 +43,8 @@ images:
   image: "/uploads/pink-path.jpg"
   media: Mixed Media
   link: 
-- title: Desert
-  image: "/uploads/desert.jpg"
+- title: Eaten
+  image: "/uploads/Eaten.jpeg"
   media: Mixed Media
   link: 
 - title: Sun Stream
