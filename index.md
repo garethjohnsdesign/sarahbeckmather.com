@@ -19,12 +19,12 @@ images:
   image: "/uploads/Norfolk.jpg"
   media: Mixed Media
   link: 
-- title: Flag
-  image: "/uploads/flag.jpg"
-  media: Mixed Media
-  link: 
 - title: Flower
   image: "/uploads/Flower%20(1).jpg"
+  media: Mixed Media
+  link: 
+- title: Flag
+  image: "/uploads/flag.jpg"
   media: Mixed Media
   link: 
 - title: Sudden Light
