@@ -15,8 +15,8 @@ images:
   image: "/uploads/surge.jpg"
   media: Mixed Media
   link: 
-- title: Yellow Earth
-  image: "/uploads/yellow-earth.jpg"
+- title: Norfolk
+  image: "/uploads/Norfolk.jpg"
   media: Mixed Media
   link: 
 - title: Coral
