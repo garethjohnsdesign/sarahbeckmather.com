@@ -6,25 +6,24 @@ images:
 - title: Rain
   image: "/uploads/rain.jpg"
   media: Mixed Media
-  link: https://www.etsy.com/uk/listing/264922302/original-rain-framed-watercolour
 - title: Surge
   image: "/uploads/surge.jpg"
   media: Mixed Media
   link: 
 - title: Camden
-  image: "/uploads/Camden.jpg"
+  image: "/uploads/camden.jpg"
   media: Mixed Media
   link: 
 - title: Norfolk
-  image: "/uploads/Norfolk.jpg"
+  image: "/uploads/norfolk.jpg"
   media: Mixed Media
   link: 
 - title: Flower
-  image: "/uploads/Flower%20(1).jpg"
+  image: "/uploads/flower.jpg"
   media: Mixed Media
   link: 
 - title: Tulip
-  image: "/uploads/Tulip.jpg"
+  image: "/uploads/tulip.jpg"
   media: Mixed Media
   link: 
 - title: Sudden Light
@@ -32,11 +31,11 @@ images:
   media: Mixed Media
   link: 
 - title: Eaten
-  image: "/uploads/Eaten.jpeg"
+  image: "/uploads/eaten.jpg"
   media: Mixed Media
   link: 
 - title: Esme
-  image: "/uploads/image1.jpeg"
+  image: "/uploads/esme.jpg"
   media: Mixed Media
   link: 
 layout: index
