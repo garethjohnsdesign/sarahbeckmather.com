@@ -117,11 +117,11 @@
 		"oAP": "\/build\/_site",
 		"oF": 0
 		},
-	"\/_uploads\/camden.jpg": {
+	"\/_uploads\/camden-rev.jpg": {
 		"ft": 16384,
 		"iS": 4186389,
 		"oA": 0,
-		"oAP": "\/_uploads\/camden.jpg",
+		"oAP": "\/_uploads\/camden-rev.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -157,24 +157,14 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/_uploads\/norfolk.jpg": {
+	"\/_uploads\/norfolk-rev.jpg": {
 		"ft": 16384,
 		"iS": 4246160,
 		"oA": 0,
-		"oAP": "\/_uploads\/norfolk.jpg",
+		"oAP": "\/_uploads\/norfolk-rev.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"\/_uploads\/profile.jpg": {
-		"ft": 16384,
-		"iS": 72158,
-		"oA": 0,
-		"oAP": "\/_uploads\/profile.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/rain.jpg": {
@@ -207,11 +197,11 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/_uploads\/Tulip.jpg": {
+	"\/_uploads\/tulip-rev.jpg": {
 		"ft": 16384,
 		"iS": 6035290,
 		"oA": 0,
-		"oAP": "\/_uploads\/Tulip.jpg",
+		"oAP": "\/_uploads\/tulip-rev.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
