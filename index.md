@@ -11,11 +11,11 @@ images:
   media: Mixed Media
   link: 
 - title: Camden
-  image: "/uploads/camden.jpg"
+  image: "/uploads/camden-rev.jpg"
   media: Mixed Media
   link: 
 - title: Norfolk
-  image: "/uploads/norfolk.jpg"
+  image: "/uploads/norfolk-rev.jpg"
   media: Mixed Media
   link: 
 - title: Flower
@@ -23,7 +23,7 @@ images:
   media: Mixed Media
   link: 
 - title: Tulip
-  image: "/uploads/tulip.jpg"
+  image: "/uploads/tulip-rev.jpg"
   media: Mixed Media
   link: 
 - title: Sudden Light
