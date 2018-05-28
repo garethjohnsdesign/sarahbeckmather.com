@@ -1,28 +1,25 @@
 @font-face {
-  font-family: 'AustinText-Roman';
+  font-family: 'Untitled Sans Regular';
   src: 
-  url('../fonts/AustinText-Roman.woff') format('woff'), 
-  url('../fonts/AustinText-Roman.ttf')  format('truetype');
+  url('../fonts/untitled-sans-regular.woff2') format('woff2'), 
+  url('../fonts/untitled-sans-regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'AustinText-Italic';
+  font-family: 'Druk Heavy';
   src: 
-  url('../fonts/AustinText-Italic.woff') format('woff'), 
-  url('../fonts/AustinText-Italic.ttf')  format('truetype');
+  url('../fonts/druk-heavy.woff2') format('woff2'), 
+  url('../fonts/druk-heavy.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
-
-
 @font-face {
-  font-family: 'lg';
+  font-family: 'Gallery';
   src: 
-  url('../fonts/lg.woff') format('woff'), 
-  url('../fonts/lg.ttf')  format('truetype');
+  url('../fonts/gallery.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }

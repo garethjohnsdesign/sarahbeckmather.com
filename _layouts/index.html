@@ -2,11 +2,9 @@
 layout: default
 ---
 
-<div class="row small-up-1 medium-up-2 large-up-3 xlarge-up-3 works" id="gallery">
+<div class="grid-x small-up-1 medium-up-2 large-up-3 xlarge-up-3 works" id="gallery">
   {% for image in page.images %}
-  
-  
-  <div class="columns excerpt" data-src="{{image.image}}" data-sub-html="{% if image.title %}{{image.title}}{% endif %} {% if image.title %}—{% endif %} {% if image.media %}{{image.media}}{% endif %}">
+  <div class="cell excerpt" data-src="{{image.image}}" data-sub-html="{% if image.title %}{{image.title}}{% endif %} {% if image.title %}—{% endif %} {% if image.media %}{{image.media}}{% endif %}">
     <a href="{{image.image}}" ><img src="{{image.image}}" class="excerpt__image"></a>
   </div>
   {% endfor %}
