@@ -1,19 +1,19 @@
 @charset "UTF-8";
 @font-face {
-  font-family: 'Untitled Sans Regular';
-  src: url("../fonts/untitled-sans-regular.woff2") format("woff2"), url("../fonts/untitled-sans-regular.woff") format("woff");
+  font-family: 'AustinText-Roman';
+  src: url("../fonts/AustinText-Roman.woff") format("woff"), url("../fonts/AustinText-Roman.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'Druk Heavy';
-  src: url("../fonts/druk-heavy.woff2") format("woff2"), url("../fonts/druk-heavy.woff") format("woff");
+  font-family: 'AustinText-Italic';
+  src: url("../fonts/AustinText-Italic.woff") format("woff"), url("../fonts/AustinText-Italic.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'Gallery';
-  src: url("../fonts/gallery.woff") format("woff");
+  font-family: 'lg';
+  src: url("../fonts/lg.woff") format("woff"), url("../fonts/lg.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
@@ -1589,7 +1589,7 @@ body {
   margin: 0;
   padding: 0;
   background: #fefefe;
-  font-family: "Untitled Sans Regular", sans-serif;
+  font-family: "AustinText-Roman", sans-serif;
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
@@ -4393,7 +4393,7 @@ h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-  font-family: "Untitled Sans Regular", sans-serif;
+  font-family: "AustinText-Roman", sans-serif;
   font-style: normal;
   font-weight: normal;
   color: inherit;
@@ -7794,7 +7794,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     display: block;
     white-space: pre;
     padding: 4px 12px;
-    font-family: "Untitled Sans Regular", sans-serif;
+    font-family: "AustinText-Roman", sans-serif;
     font-size: 1rem; }
     .lg-outer .lg-dropdown a:hover {
       background-color: rgba(0, 0, 0, 0.07); }
