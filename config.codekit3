@@ -7,7 +7,7 @@
 		"uuidString": "550FEDE5-7AFF-4FD3-8DBE-A45DE2D02921"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26680",
 "files": {
 	"\/404.md": {
 		"cB": 0,
@@ -120,6 +120,7 @@
 	"\/_uploads\/camden-rev.jpg": {
 		"ft": 16384,
 		"iS": 4186389,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/camden-rev.jpg",
 		"oF": 0,
@@ -130,6 +131,7 @@
 	"\/_uploads\/eaten.jpg": {
 		"ft": 16384,
 		"iS": 101645,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/eaten.jpg",
 		"oF": 0,
@@ -140,6 +142,7 @@
 	"\/_uploads\/esme.jpg": {
 		"ft": 16384,
 		"iS": 142784,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/esme.jpg",
 		"oF": 0,
@@ -150,6 +153,7 @@
 	"\/_uploads\/flower.jpg": {
 		"ft": 16384,
 		"iS": 100734,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/flower.jpg",
 		"oF": 0,
@@ -160,6 +164,7 @@
 	"\/_uploads\/norfolk-rev.jpg": {
 		"ft": 16384,
 		"iS": 4246160,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/norfolk-rev.jpg",
 		"oF": 0,
@@ -170,6 +175,7 @@
 	"\/_uploads\/rain.jpg": {
 		"ft": 16384,
 		"iS": 110597,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/rain.jpg",
 		"oF": 0,
@@ -180,6 +186,7 @@
 	"\/_uploads\/sudden-light.jpg": {
 		"ft": 16384,
 		"iS": 96596,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/sudden-light.jpg",
 		"oF": 0,
@@ -190,6 +197,7 @@
 	"\/_uploads\/surge.jpg": {
 		"ft": 16384,
 		"iS": 0,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/surge.jpg",
 		"oF": 0,
@@ -200,6 +208,7 @@
 	"\/_uploads\/tulip-rev.jpg": {
 		"ft": 16384,
 		"iS": 6035290,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/tulip-rev.jpg",
 		"oF": 0,
@@ -210,6 +219,7 @@
 	"\/_uploads\/yellow-earth.jpg": {
 		"ft": 16384,
 		"iS": 0,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/yellow-earth.jpg",
 		"oF": 0,
@@ -236,7 +246,7 @@
 		},
 	"\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 321,
+		"iS": 2570,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
@@ -245,11 +255,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/android-chrome-256x256.png": {
+	"\/assets\/favicons\/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 1084,
+		"iS": 7421,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/android-chrome-256x256.png",
+		"oAP": "\/assets\/favicons\/android-chrome-512x512.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -258,7 +268,7 @@
 		},
 	"\/assets\/favicons\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 304,
+		"iS": 1211,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon.png",
 		"oF": 0,
@@ -276,7 +286,7 @@
 		},
 	"\/assets\/favicons\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 592,
+		"iS": 546,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-16x16.png",
 		"oF": 0,
@@ -287,7 +297,7 @@
 		},
 	"\/assets\/favicons\/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 599,
+		"iS": 664,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-32x32.png",
 		"oF": 0,
@@ -311,11 +321,55 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/assets\/favicons\/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 1458,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/favicons\/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 598,
+		"iS": 1678,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 1949,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 3857,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 987,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-70x70.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -331,6 +385,13 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/assets\/favicons\/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/favicons\/site.webmanifest",
+		"oF": 0
 		},
 	"\/assets\/fonts\/AustinText-Italic.eot": {
 		"cB": 0,
@@ -4171,6 +4232,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/bower_components\/jquery\/src\/core\/camelCase.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/core\/camelCase.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/bower_components\/jquery\/src\/core\/DOMEval.js": {
 		"ft": 64,
 		"ma": 0,
@@ -4257,6 +4328,16 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/core\/support.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/jquery\/src\/core\/toType.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/core\/toType.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4371,12 +4452,12 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/bower_components\/jquery\/src\/css\/var\/rmargin.js": {
+	"\/bower_components\/jquery\/src\/css\/var\/rboxStyle.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/var\/rmargin.js",
+		"oAP": "\/bower_components\/jquery\/src\/css\/var\/rboxStyle.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4921,6 +5002,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/bower_components\/jquery\/src\/var\/isFunction.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/var\/isFunction.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/jquery\/src\/var\/isWindow.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/var\/isWindow.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/bower_components\/jquery\/src\/var\/ObjectFunctionString.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5090,6 +5191,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1-1600.jpg": {
 		"ft": 16384,
 		"iS": 241923,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-1600.jpg",
 		"oF": 0,
@@ -5100,6 +5202,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1-375.jpg": {
 		"ft": 16384,
 		"iS": 23648,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-375.jpg",
 		"oF": 0,
@@ -5110,6 +5213,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1-480.jpg": {
 		"ft": 16384,
 		"iS": 34414,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-480.jpg",
 		"oF": 0,
@@ -5120,6 +5224,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1.jpg": {
 		"ft": 16384,
 		"iS": 91130,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1.jpg",
 		"oF": 0,
@@ -5130,6 +5235,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13-1600.jpg": {
 		"ft": 16384,
 		"iS": 129996,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-1600.jpg",
 		"oF": 0,
@@ -5140,6 +5246,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13-375.jpg": {
 		"ft": 16384,
 		"iS": 22812,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-375.jpg",
 		"oF": 0,
@@ -5150,6 +5257,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13-480.jpg": {
 		"ft": 16384,
 		"iS": 35693,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-480.jpg",
 		"oF": 0,
@@ -5160,6 +5268,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13.jpg": {
 		"ft": 16384,
 		"iS": 124149,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13.jpg",
 		"oF": 0,
@@ -5170,6 +5279,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2-1600.jpg": {
 		"ft": 16384,
 		"iS": 187925,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-1600.jpg",
 		"oF": 0,
@@ -5180,6 +5290,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2-375.jpg": {
 		"ft": 16384,
 		"iS": 30307,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-375.jpg",
 		"oF": 0,
@@ -5190,6 +5301,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2-480.jpg": {
 		"ft": 16384,
 		"iS": 48290,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-480.jpg",
 		"oF": 0,
@@ -5200,6 +5312,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2.jpg": {
 		"ft": 16384,
 		"iS": 326478,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2.jpg",
 		"oF": 0,
@@ -5210,6 +5323,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4-1600.jpg": {
 		"ft": 16384,
 		"iS": 153989,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-1600.jpg",
 		"oF": 0,
@@ -5220,6 +5334,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4-375.jpg": {
 		"ft": 16384,
 		"iS": 18396,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-375.jpg",
 		"oF": 0,
@@ -5230,6 +5345,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4-480.jpg": {
 		"ft": 16384,
 		"iS": 25839,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-480.jpg",
 		"oF": 0,
@@ -5240,6 +5356,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4.jpg": {
 		"ft": 16384,
 		"iS": 70944,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4.jpg",
 		"oF": 0,
@@ -5250,6 +5367,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-1.jpg": {
 		"ft": 16384,
 		"iS": 68187,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-1.jpg",
 		"oF": 0,
@@ -5260,6 +5378,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-13.jpg": {
 		"ft": 16384,
 		"iS": 76594,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-13.jpg",
 		"oF": 0,
@@ -5270,6 +5389,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-2.jpg": {
 		"ft": 16384,
 		"iS": 92856,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-2.jpg",
 		"oF": 0,
@@ -5280,6 +5400,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-4.jpg": {
 		"ft": 16384,
 		"iS": 53719,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-4.jpg",
 		"oF": 0,
@@ -6777,23 +6898,6 @@
 		"oAP": "\/bower_components\/what-input\/.gitignore",
 		"oF": 0
 		},
-	"\/bower_components\/what-input\/.nvmrc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/.nvmrc",
-		"oF": 0
-		},
-	"\/bower_components\/what-input\/dist\/lte-IE8.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/dist\/lte-IE8.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/bower_components\/what-input\/dist\/what-input.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6873,26 +6977,6 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/src\/markup\/index.html",
 		"oF": 0
-		},
-	"\/bower_components\/what-input\/src\/scripts\/polyfills\/ie8\/EventListener.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/src\/scripts\/polyfills\/ie8\/EventListener.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/what-input\/src\/scripts\/polyfills\/ie8\/indexOf.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/what-input\/src\/scripts\/polyfills\/ie8\/indexOf.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/bower_components\/what-input\/src\/scripts\/what-input.js": {
 		"ft": 64,
@@ -7294,7 +7378,8 @@
 	"creationDate": 499792706,
 	"displayValue": "Sarah Beck Mather",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "\/assets\/favicons\/apple-touch-icon.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -7302,6 +7387,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -7865,6 +7951,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -9092,6 +9182,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {

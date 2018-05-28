@@ -1,5 +1,30 @@
 module.exports = (() => {
   /*
+   * bail out if there is no document or window
+   * (i.e. in a node/non-DOM environment)
+   *
+   * Return a stubbed API instead
+   */
+  if (typeof document === 'undefined' || typeof window === 'undefined') {
+    return {
+      // always return "initial" because no interaction will ever be detected
+      ask: () => 'initial',
+
+      // always return null
+      element: () => null,
+
+      // no-op
+      ignoreKeys: () => {},
+
+      // no-op
+      registerOnChange: () => {},
+
+      // no-op
+      unRegisterOnChange: () => {}
+    }
+  }
+
+  /*
    * variables
    */
 
@@ -14,6 +39,18 @@ module.exports = (() => {
 
   // last used input intent
   let currentIntent = currentInput
+
+  // check for sessionStorage support
+  // then check for session variables and use if available
+  if (window.sessionStorage) {
+    if (window.sessionStorage.getItem('what-input')) {
+      currentInput = window.sessionStorage.getItem('what-input')
+    }
+
+    if (window.sessionStorage.getItem('what-intent')) {
+      currentIntent = window.sessionStorage.getItem('what-intent')
+    }
+  }
 
   // event buffer timer
   let eventTimer = null
@@ -153,6 +190,11 @@ module.exports = (() => {
 
       if (currentInput !== value && shouldUpdate) {
         currentInput = value
+
+        if (window.sessionStorage) {
+          window.sessionStorage.setItem('what-input', currentInput)
+        }
+
         doUpdate('input')
       }
 
@@ -166,6 +208,11 @@ module.exports = (() => {
 
         if (notFormInput) {
           currentIntent = value
+
+          if (window.sessionStorage) {
+            window.sessionStorage.setItem('what-intent', currentIntent)
+          }
+
           doUpdate('intent')
         }
       }
@@ -197,12 +244,24 @@ module.exports = (() => {
 
       if (currentIntent !== value) {
         currentIntent = value
+
+        if (window.sessionStorage) {
+          window.sessionStorage.setItem('what-intent', currentIntent)
+        }
+
         doUpdate('intent')
       }
     }
   }
 
   const setElement = event => {
+    if (!event.target.nodeName) {
+      // If nodeName is undefined, clear the element
+      // This can happen if click inside an <svg> element.
+      clearElement()
+      return
+    }
+
     currentElement = event.target.nodeName.toLowerCase()
     docElem.setAttribute('data-whatelement', currentElement)
 
@@ -348,7 +407,7 @@ module.exports = (() => {
     unRegisterOnChange: fn => {
       let position = objPos(fn)
 
-      if (position) {
+      if (position || position === 0) {
         functionList.splice(position, 1)
       }
     }

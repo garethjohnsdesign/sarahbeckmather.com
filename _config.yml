@@ -35,10 +35,11 @@ exclude:
 - node_modules
 - ".gitignore"
 - bower_components
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
+- jekyll/imgix
 markdown: kramdown
 kramdown:
   input: GFM
