@@ -9,20 +9,26 @@ layout: compress
 {% include head.html %}
 <!-- End Head -->
 
-<body class="animated fadeIn">
-
-<div class="off-canvas position-left" id="offCanvas" data-off-canvas data-transition="overlap" data-options="closeOnClick:true; autoFocus:false;">
+<body>
+  
+<!-- Off Canvas Navigation -->
+<div class="off-canvas position-left" id="offCanvas" data-off-canvas data-transition="overlap">
 {% include off-canvas.html %}
 </div>
+<!-- End Off Canvas Navigation --> 
 
-<div class="off-canvas-content wrapper" data-off-canvas-content>
-
+<div class="off-canvas-content {{page.layout | slugify}}" data-off-canvas-content>
+<!-- Navigation -->
 {% include navigation.html %}
+<!-- End Navigation -->
 
-{{ content }}
+<!-- Content -->
+{{content}}
+<!-- End Content -->
 
+<!-- Footer -->
 {% include footer.html %}
-
+<!-- End Footer-->
 </div>
 
 <!-- Scripts -->
@@ -34,13 +40,6 @@ layout: compress
 {% include analytics.html %}
 {% endif %}
 <!-- End Google Analytics -->
-
 </body>
 
 </html>
-
-
-
-
-
-

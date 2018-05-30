@@ -1,6 +1,6 @@
 $(document).foundation();
 
-$('#gallery').lightGallery({
-    selector: '.excerpt',
+$('.masonry').lightGallery({
+    selector: '.masonry__item',
     download: false
 });

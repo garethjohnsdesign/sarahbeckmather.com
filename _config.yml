@@ -8,19 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: false
-defaults:
-- scope:
-    path: ''
-    type: projects
-  values:
-    image: 
-    video: 
-    company: 
-    runtime: 
-    director: 
-    producers: 
-    role: 
-    is-featured: 
 url: https://www.sarahbeckmather.com
 description: Freelance Artist living and working in London. Specialising in abstract
   paintings, using mixed media.
@@ -35,10 +22,12 @@ exclude:
 - node_modules
 - ".gitignore"
 - bower_components
-gems:
+- assets/scss
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
+- jekyll/imgix
 markdown: kramdown
 kramdown:
   input: GFM
@@ -62,3 +51,5 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
+imgix:
+  source: sarah-beck-mather.imgix.net
