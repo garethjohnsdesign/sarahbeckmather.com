@@ -62,6 +62,20 @@
 		"oAP": "\/_includes\/head.html",
 		"oF": 0
 		},
+	"\/_includes\/image-large.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/image-large.html",
+		"oF": 0
+		},
+	"\/_includes\/image-thumb.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/image-thumb.html",
+		"oF": 0
+		},
 	"\/_includes\/navigation.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -393,97 +407,32 @@
 		"oAP": "\/assets\/favicons\/site.webmanifest",
 		"oF": 0
 		},
-	"\/assets\/fonts\/AustinText-Italic.eot": {
+	"\/assets\/fonts\/austintext-roman.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/AustinText-Italic.eot",
+		"oAP": "\/assets\/fonts\/austintext-roman.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/AustinText-Italic.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/AustinText-Italic.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/fonts\/AustinText-Italic.ttf": {
+	"\/assets\/fonts\/austintext-roman.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/AustinText-Italic.ttf",
+		"oAP": "\/assets\/fonts\/austintext-roman.woff2",
 		"oF": 0
 		},
-	"\/assets\/fonts\/AustinText-Italic.woff": {
+	"\/assets\/fonts\/gallery.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/AustinText-Italic.woff",
+		"oAP": "\/assets\/fonts\/gallery.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/AustinText-Roman.eot": {
+	"\/assets\/fonts\/gallery.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/AustinText-Roman.eot",
-		"oF": 0
-		},
-	"\/assets\/fonts\/AustinText-Roman.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/AustinText-Roman.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/fonts\/AustinText-Roman.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/AustinText-Roman.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/AustinText-Roman.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/AustinText-Roman.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/lg.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/lg.eot",
-		"oF": 0
-		},
-	"\/assets\/fonts\/lg.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/lg.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/fonts\/lg.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/lg.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/lg.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/lg.woff",
+		"oAP": "\/assets\/fonts\/gallery.woff2",
 		"oF": 0
 		},
 	"\/assets\/icons\/symbol-defs.svg": {
@@ -524,7 +473,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/js\/min\/app-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/assets\/js\/min\/app-min.js": {
@@ -792,7 +741,7 @@
 		"uL": 1
 		},
 	"\/assets\/scss\/app.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -801,7 +750,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/css\/app.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/assets\/scss\/hamburgers\/_base.scss": {
@@ -6518,7 +6467,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/lightgallery\/modules\/lg-autoplay.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -6538,7 +6487,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/lightgallery\/modules\/lg-fullscreen.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -8220,6 +8169,18 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/dist\/js\/lightgallery.js",
 			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/modules\/lg-autoplay.min.js",
+			"position": 4,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/modules\/lg-fullscreen.min.js",
+			"position": 5,
 			"type": 0
 			}
 		]

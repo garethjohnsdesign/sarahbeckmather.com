@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<div class="grid-x small-up-1 medium-up-2 large-up-3 xlarge-up-3 works" id="gallery">
+<div class="masonry works" id="gallery">
   {% for image in page.images %}
-  <div class="cell excerpt" data-src="{{image.image}}" data-sub-html="{% if image.title %}{{image.title}}{% endif %} {% if image.title %}—{% endif %} {% if image.media %}{{image.media}}{% endif %}">
-    <a href="{{image.image}}" ><img src="{{image.image}}" class="excerpt__image"></a>
+  <div class="masonry__item" data-src="{{image.image | imgix_url: w: 1024, fit: "clip", auto: "format", auto: "compress", lossless: "true", q: 40, fit: "crop", dpr: 2}}" data-sub-html="{% if image.title %}{{image.title}}{% endif %} {% if image.title %}—{% endif %} {% if image.media %}{{image.media}}{% endif %}">
+    <a href="{{image.image | imgix_url: w: 1024, fit: "clip", auto: "format", auto: "compress", lossless: "true", q: 40, fit: "crop", dpr: 2}}">{% include image-thumb.html %}</a>
   </div>
   {% endfor %}
 </div>

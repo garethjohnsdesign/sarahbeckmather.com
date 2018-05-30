@@ -6,14 +6,14 @@ $backdrop-opacity: 1 !default;
 $lg-toolbar-bg: rgba(0, 0, 0, 0) !default;
 // $lg-border-radius-base: 2px !default;
 $lg-border-radius-base: 0px !default;
-$lg-theme-highlight: $white !default;
+$lg-theme-highlight: $medium-gray !default;
 $lg-theme: $medium-gray !default;
 
 // basic icon colours
-$lg-icon-bg: rgba(0, 0, 0, 0.45) !default;
+$lg-icon-bg: $black;
 // $lg-icon-color: #999 !default;
-$lg-icon-color: #999 !default;
-$lg-icon-hover-color: $white !default;
+$lg-icon-color: $black !default;
+$lg-icon-hover-color: $medium-gray !default;
 
 // counter
 $lg-counter-color: $medium-gray !default;
@@ -45,7 +45,7 @@ $zoom-transition-duration: 0.3s !default;
 // $lg-sub-html-bg: rgba(0, 0, 0, 0.45) !default;
 $lg-sub-html-bg: rgba(0, 0, 0, 0) !default;
 // $lg-sub-html-color: #EEE !default;
-$lg-sub-html-color: $color--black !default;
+$lg-sub-html-color: $black !default;
 
 // thumbnail toggle button
 $lg-thumb-toggle-bg: #0D0A0A !default;
@@ -430,7 +430,7 @@ $zindex-backdrop: 1040 !default;
         color: $lg-next-prev-color;
         cursor: pointer;
         display: block;
-        font-size: 2rem;
+        font-size: 1.5rem;
         margin-top: -10px;
         padding: 8px 10px 9px;
         position: absolute;
@@ -523,7 +523,7 @@ $zindex-backdrop: 1040 !default;
         color: $lg-toolbar-icon-color;
         cursor: pointer;
         float: right;
-        font-size: 24px;
+        font-size: 1rem;
         height: 47px;
         line-height: 27px;
         padding: 10px 0;
@@ -556,7 +556,7 @@ $zindex-backdrop: 1040 !default;
     background-color: $lg-sub-html-bg;
     bottom: 0;
     color: $lg-sub-html-color;
-    font-size: 16px;
+    font-size: 1rem;
     left: 0;
     padding: 10px 40px;
     position: fixed;
@@ -1262,7 +1262,7 @@ body:not(.lg-from-hash){
     bottom: 0;
     z-index: $zindex-backdrop;
 //     background-color: #000;
-    background-color: $black;
+    background-color: $white;
     opacity: 0;
     @include transition(opacity 0.15s ease 0s);
     &.in{
