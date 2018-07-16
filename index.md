@@ -23,7 +23,7 @@ images:
   image: "/uploads/4_2.jpg"
   media: Mixed Media
   link: 
-- title: Organic Beach
+- title: Sand Studio
   image: "/uploads/image4.jpeg"
   media: Watercolour and Pastel on Paper
   link: 
@@ -31,7 +31,7 @@ images:
   image: "/uploads/tulip-rev.jpg"
   media: Mixed Media
   link: 
-- title: Ben
+- title: Henry
   image: "/uploads/image2%20(1).jpeg"
   media: Watercolour and Pastel on Paper
   link: 
