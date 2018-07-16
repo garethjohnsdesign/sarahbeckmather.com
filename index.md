@@ -15,20 +15,20 @@ images:
   image: "/uploads/sudden-light.jpg"
   media: Mixed Media
   link: 
-- title: Norfolk
-  image: "/uploads/norfolk-rev.jpg"
-  media: Mixed Media
-  link: 
-- title: Ben
-  image: "/uploads/image2%20(1).jpeg"
-  media: Watercolour and Pastel on Paper
-  link: 
 - title: Flower
   image: "/uploads/flower.jpg"
   media: Mixed Media
   link: 
+- title: Norfolk
+  image: "/uploads/norfolk-rev.jpg"
+  media: Mixed Media
+  link: 
 - title: Organic Beach
   image: "/uploads/image4.jpeg"
+  media: Watercolour and Pastel on Paper
+  link: 
+- title: Ben
+  image: "/uploads/image2%20(1).jpeg"
   media: Watercolour and Pastel on Paper
   link: 
 - title: Tulip
