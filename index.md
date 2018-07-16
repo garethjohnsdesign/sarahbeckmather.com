@@ -8,7 +8,7 @@ images:
   media: Mixed Media
   link: 
 - title: Camden
-  image: "/uploads/camden-rev.jpg"
+  image: "/uploads/Camden.jpg"
   media: Mixed Media
   link: 
 - title: Sudden Light
@@ -20,7 +20,7 @@ images:
   media: Mixed Media
   link: 
 - title: Norfolk
-  image: "/uploads/norfolk-rev.jpg"
+  image: "/uploads/4_2.jpg"
   media: Mixed Media
   link: 
 - title: Organic Beach
