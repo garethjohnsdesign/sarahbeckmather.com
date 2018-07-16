@@ -35,10 +35,6 @@ images:
   image: "/uploads/tulip-rev.jpg"
   media: Mixed Media
   link: 
-- title: Esme
-  image: "/uploads/esme.jpg"
-  media: Mixed Media
-  link: 
 - title: Alien
   image: "/uploads/image3.jpeg"
   media: Watercolour and Pastel on Paper
