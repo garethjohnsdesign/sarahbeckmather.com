@@ -27,13 +27,13 @@ images:
   image: "/uploads/image4.jpeg"
   media: Watercolour and Pastel on Paper
   link: 
-- title: Ben
-  image: "/uploads/image2%20(1).jpeg"
-  media: Watercolour and Pastel on Paper
-  link: 
 - title: Tulip
   image: "/uploads/tulip-rev.jpg"
   media: Mixed Media
+  link: 
+- title: Ben
+  image: "/uploads/image2%20(1).jpeg"
+  media: Watercolour and Pastel on Paper
   link: 
 - title: Alien
   image: "/uploads/image3.jpeg"
