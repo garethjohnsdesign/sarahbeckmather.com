@@ -9,8 +9,16 @@ collections:
     title: Uploads
     output: false
 url: https://www.sarahbeckmather.com
-description: Freelance Artist living and working in London. Specialising in abstract
-  paintings, using mixed media.
+description: "Sarah lives and works in London as a self-supporting Artist. Whilst
+  she trained as an actor at The Central School of Speech and Drama, she has maintained
+  her artistic practice throughout, and her interaction and involvement with painting
+  has continued to grow and deepen over time. She has continued to develop as an artist—specialising
+  in abstract paintings, employing mixed media—and she makes personal and intuitive
+  work that is available to buy; she is also prepared to undertake commissions. Her
+  work is atmospheric and suffused with allusions to landscape; it is emotionally
+  charged, and the experience of being a working actor has given it a force and presence.
+  For her, the painted image continues to be an important focus for the world of feeling
+  and perception, and is seen as an important aspect of being alive.\n\n"
 permalink: pretty
 exclude:
 - bower.json
