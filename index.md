@@ -24,7 +24,7 @@ images:
   media: Mixed Media
   link: 
 - title: Jacob
-  image: "/uploads/IMG_8157.JPG"
+  image: "/uploads/IMG_8893.JPG"
   media: Watercolour and Pastel on Paper
   link: 
 - title: Tulip
@@ -32,11 +32,11 @@ images:
   media: Mixed Media
   link: 
 - title: Riot
-  image: "/uploads/IMG_8874.JPG"
+  image: "/uploads/IMG_8891.JPG"
   media: Watercolour and Pastel on Paper
   link: 
-- title: 
-  image: "/uploads/IMG_8436.JPG"
+- title: Orchid
+  image: "/uploads/IMG_8892.JPG"
   media: 
   link: 
 layout: index
