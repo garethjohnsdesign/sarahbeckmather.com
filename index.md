@@ -31,13 +31,13 @@ images:
   image: "/uploads/tulip-rev.jpg"
   media: Mixed Media
   link: 
-- title: Henry
-  image: "/uploads/image2%20(1).jpeg"
-  media: Watercolour and Pastel on Paper
-  link: 
 - title: Riot
   image: "/uploads/IMG_8874.JPG"
   media: Watercolour and Pastel on Paper
+  link: 
+- title: 
+  image: "/uploads/IMG_8436.JPG"
+  media: 
   link: 
 layout: index
 ---
