@@ -35,6 +35,10 @@ images:
   image: "/uploads/IMG_8891.JPG"
   media: Watercolour and Pastel on Paper
   link: 
+- title: Tulip 2
+  image: "/uploads/IMG_8894%20(1).JPG"
+  media: 
+  link: 
 layout: index
 ---
 
