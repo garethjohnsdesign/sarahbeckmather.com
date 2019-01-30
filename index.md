@@ -7,8 +7,8 @@ images:
   image: "/uploads/surge.jpg"
   media: Mixed Media
   link: 
-- title: Camden
-  image: "/uploads/Camden.jpg"
+- title: Birthday
+  image: "/uploads/IMG_8732.JPG"
   media: Mixed Media
   link: 
 - title: Sudden Light
@@ -23,8 +23,8 @@ images:
   image: "/uploads/4_2.jpg"
   media: Mixed Media
   link: 
-- title: Sand Studio
-  image: "/uploads/image4.jpeg"
+- title: Jacob
+  image: "/uploads/IMG_8157.JPG"
   media: Watercolour and Pastel on Paper
   link: 
 - title: Tulip
@@ -35,8 +35,8 @@ images:
   image: "/uploads/image2%20(1).jpeg"
   media: Watercolour and Pastel on Paper
   link: 
-- title: Alien
-  image: "/uploads/image3.jpeg"
+- title: Riot
+  image: "/uploads/IMG_8874.JPG"
   media: Watercolour and Pastel on Paper
   link: 
 layout: index
