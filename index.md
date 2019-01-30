@@ -15,6 +15,10 @@ images:
   image: "/uploads/sudden-light.jpg"
   media: Mixed Media
   link: 
+- title: Tulip 2
+  image: "/uploads/IMG_8894%20(1).JPG"
+  media: 
+  link: 
 - title: Flower
   image: "/uploads/flower.jpg"
   media: Mixed Media
@@ -30,14 +34,6 @@ images:
 - title: Tulip
   image: "/uploads/tulip-rev.jpg"
   media: Mixed Media
-  link: 
-- title: Riot
-  image: "/uploads/IMG_8891.JPG"
-  media: Watercolour and Pastel on Paper
-  link: 
-- title: Tulip 2
-  image: "/uploads/IMG_8894%20(1).JPG"
-  media: 
   link: 
 layout: index
 ---
