@@ -35,6 +35,10 @@ images:
   image: "/uploads/tulip-rev.jpg"
   media: Mixed Media
   link: 
+- title: Riot
+  image: "/uploads/IMG_8895.JPG"
+  media: 
+  link: 
 layout: index
 ---
 
