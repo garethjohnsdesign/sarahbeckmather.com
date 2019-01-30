@@ -24,7 +24,7 @@ images:
   media: Mixed Media
   link: 
 - title: Norfolk
-  image: "/uploads/4_2.jpg"
+  image: "/uploads/IMG_8897.JPG"
   media: Mixed Media
   link: 
 - title: Jacob
