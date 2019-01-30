@@ -35,10 +35,6 @@ images:
   image: "/uploads/IMG_8891.JPG"
   media: Watercolour and Pastel on Paper
   link: 
-- title: Orchid
-  image: "/uploads/IMG_8892.JPG"
-  media: 
-  link: 
 layout: index
 ---
 
