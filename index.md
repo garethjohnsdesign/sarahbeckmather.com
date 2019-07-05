@@ -27,6 +27,10 @@ images:
   image: "/uploads/flower.jpg"
   media: Mixed Media
   link: 
+- title: Suffolk
+  image: "/uploads/200FD68E-B0EA-493D-B2DB-A2E1CEAFDE74.jpg"
+  media: Mixed Media
+  link: 
 - title: Norfolk
   image: "/uploads/IMG_8897.JPG"
   media: Mixed Media
