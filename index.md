@@ -3,6 +3,10 @@ title: Sarah Beck Mather
 position: 0
 image: "/assets/img/og-image.png"
 images:
+- title: Penrith
+  image: "/uploads/penrith.JPG"
+  media: Mixed Media
+  link: 
 - title: Surge
   image: "/uploads/surge.jpg"
   media: Mixed Media
