@@ -3,20 +3,24 @@ title: Sarah Beck Mather
 position: 0
 image: "/assets/img/og-image.png"
 images:
-- title: Penrith
-  image: "/uploads/penrith.JPG"
+- title: Morning
+  image: "/uploads/IMG_0312.jpeg"
   media: Mixed Media
   link: 
 - title: Surge
   image: "/uploads/surge.jpg"
   media: Mixed Media
   link: 
-- title: Birthday
-  image: "/uploads/IMG_8732.JPG"
+- title: Penrith
+  image: "/uploads/penrith.JPG"
   media: Mixed Media
   link: 
 - title: Sudden Light
   image: "/uploads/sudden-light.jpg"
+  media: Mixed Media
+  link: 
+- title: Birthday
+  image: "/uploads/IMG_8732.JPG"
   media: Mixed Media
   link: 
 - title: Tulip 2
@@ -27,12 +31,12 @@ images:
   image: "/uploads/flower.jpg"
   media: Mixed Media
   link: 
-- title: Norfolk
-  image: "/uploads/IMG_8897.JPG"
+- title: Dream Baby
+  image: "/uploads/IMG_0318.jpeg"
   media: Mixed Media
   link: 
-- title: Suffolk
-  image: "/uploads/200FD68E-B0EA-493D-B2DB-A2E1CEAFDE74.jpg"
+- title: Norfolk
+  image: "/uploads/IMG_8897.JPG"
   media: Mixed Media
   link: 
 - title: Jacob
