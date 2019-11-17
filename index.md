@@ -19,10 +19,6 @@ images:
   image: "/uploads/surge.jpg"
   media: Mixed Media
   link: 
-- title: Birthday
-  image: "/uploads/IMG_8732.JPG"
-  media: Mixed Media
-  link: 
 - title: Tulip 2
   image: "/uploads/IMG_8894%20(1).JPG"
   media: 
