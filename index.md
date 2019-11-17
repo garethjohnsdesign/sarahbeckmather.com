@@ -31,6 +31,10 @@ images:
   image: "/uploads/flower.jpg"
   media: Mixed Media
   link: 
+- title: Dream Baby
+  image: "/uploads/IMG_0318.jpeg"
+  media: Mixed Media
+  link: 
 - title: Norfolk
   image: "/uploads/IMG_8897.JPG"
   media: Mixed Media
@@ -41,10 +45,6 @@ images:
   link: 
 - title: Tulip
   image: "/uploads/tulip-rev.jpg"
-  media: Mixed Media
-  link: 
-- title: Dream Baby
-  image: "/uploads/IMG_0318.jpeg"
   media: Mixed Media
   link: 
 layout: index
