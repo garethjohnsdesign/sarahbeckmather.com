@@ -7,16 +7,16 @@ images:
   image: "/uploads/IMG_0095.jpeg"
   media: Mixed Media
   link: 
-- title: Surge
-  image: "/uploads/surge.jpg"
+- title: Sudden Light
+  image: "/uploads/sudden-light.jpg"
   media: Mixed Media
   link: 
 - title: Penrith
   image: "/uploads/penrith.JPG"
   media: Mixed Media
   link: 
-- title: Sudden Light
-  image: "/uploads/sudden-light.jpg"
+- title: Surge
+  image: "/uploads/surge.jpg"
   media: Mixed Media
   link: 
 - title: Birthday
@@ -43,12 +43,12 @@ images:
   image: "/uploads/IMG_8893.JPG"
   media: Watercolour and Pastel on Paper
   link: 
-- title: Tulip
-  image: "/uploads/tulip-rev.jpg"
-  media: Mixed Media
-  link: 
 - title: Sand Tracks
   image: "/uploads/IMG_0086.jpeg"
+  media: Mixed Media
+  link: 
+- title: Tulip
+  image: "/uploads/tulip-rev.jpg"
   media: Mixed Media
   link: 
 layout: index
