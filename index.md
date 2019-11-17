@@ -4,7 +4,7 @@ position: 0
 image: "/assets/img/og-image.png"
 images:
 - title: Morning
-  image: "/uploads/IMG_0312.jpeg"
+  image: "/uploads/IMG_0095.jpeg"
   media: Mixed Media
   link: 
 - title: Surge
@@ -32,7 +32,7 @@ images:
   media: Mixed Media
   link: 
 - title: Dream Baby
-  image: "/uploads/IMG_0318.jpeg"
+  image: "/uploads/IMG_0085.jpeg"
   media: Mixed Media
   link: 
 - title: Norfolk
@@ -45,6 +45,10 @@ images:
   link: 
 - title: Tulip
   image: "/uploads/tulip-rev.jpg"
+  media: Mixed Media
+  link: 
+- title: Sand Tracks
+  image: "/uploads/IMG_0086.jpeg"
   media: Mixed Media
   link: 
 layout: index
