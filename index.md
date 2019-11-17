@@ -3,6 +3,10 @@ title: Sarah Beck Mather
 position: 0
 image: "/assets/img/og-image.png"
 images:
+- title: Morning
+  image: "/uploads/IMG_0312.jpeg"
+  media: Mixed Media
+  link: 
 - title: Surge
   image: "/uploads/surge.jpg"
   media: Mixed Media
@@ -39,8 +43,8 @@ images:
   image: "/uploads/tulip-rev.jpg"
   media: Mixed Media
   link: 
-- title: Morning
-  image: "/uploads/IMG_0312.jpeg"
+- title: Dream Baby
+  image: "/uploads/IMG_0318.jpeg"
   media: Mixed Media
   link: 
 layout: index
